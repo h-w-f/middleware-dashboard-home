@@ -28,5 +28,6 @@
 		"views"			: []
 	},
 	"settings"		: {
-	}
+	},
+	"sequence"		: 0
 }
