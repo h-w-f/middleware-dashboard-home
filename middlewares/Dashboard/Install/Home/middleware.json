@@ -5,6 +5,7 @@
 	"version"		: "0.0.1",
 	"repo"			: "https://github.com/h-w-f/middleware-dashboard-home",
 	"path"			: "/",
+	"class"			: "\\Middlewares\\Dashboard\\Home",
 	"dependencies"	: {
 		"core"			: {
 			"name"		: "Core",
